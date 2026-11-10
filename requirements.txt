@@ -1,0 +1,8 @@
+PyQt6>=6.6
+SQLAlchemy>=2.0
+bcrypt>=4.0
+openpyxl>=3.1
+reportlab>=4.0
+pytest>=8.0
+# для работы с сервером PostgreSQL (по ТЗ) раскомментируйте:
+# psycopg2-binary>=2.9
